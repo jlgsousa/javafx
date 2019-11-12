@@ -5,8 +5,8 @@ import javafx.fxml.Initializable;
 import javafx.scene.control.TreeItem;
 import javafx.scene.control.TreeView;
 import javafx.scene.image.Image;
-import javafx.scene.image.ImageView;
 
+import javax.swing.*;
 import java.io.File;
 import java.net.URL;
 import java.util.ResourceBundle;
