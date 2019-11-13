@@ -1,7 +1,0 @@
-
-Jsquid:S1481",Remove this unused "dirPath" local variable.(À¼Ş8€¯Õå-
-csquid:S1854*"@Remove this useless assignment to local variable "selectedFile".(ÎÖÑ„úÿÿÿÿ8›íïÔå-
-Ysquid:S1854'";Remove this useless assignment to local variable "dirPath".(»×’Ì8±çÕå-
-Tsquid:S1481*"1Remove this unused "selectedFile" local variable.(ÎÖÑ„úÿÿÿÿ8›íïÔå-
-T
-squid:S1064"9Replace this use of System.out or System.err by a logger.(©ó«ıÿÿÿÿ
