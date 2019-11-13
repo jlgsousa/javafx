@@ -31,5 +31,5 @@ SET classpath=%classpath%;lib/*
 
 
 
-java -cp "%classpath%"  -Djava.library.path="%librarypath%" -Xdebug -Xrunjdwp:server=y,transport=dt_socket,address=8001,suspend=n -Dpos.root.dir="%POS_HOME%" -Dpos.ui.properties.filename="%POS_UI_PROPERTIES%" -Dpos.client.system.properties.filename="%POS_CLIENTSYSTEM_PROPERTIES%" -Dpos.preloaded.fiscal.client.system.properties.filename="%POS_PRELOADED_FISCALCLIENTSYSTEM_PROPERTIES%" -Dpos.preloaded.fiscal.ui.properties.filename="%POS_PRELOADED_FISCALUI_PROPERTIES%" -Dpos.config.dirs="%POS_CONFIG_DIRS%" com.gk_software.cst.development.tableau_editor.TableauEditor
+java -cp "%classpath%"  -Djava.library.path="%librarypath%" -Xdebug -Xrunjdwp:server=y,transport=dt_socket,address=8001,suspend=n -Dpos.root.dir="%POS_HOME%" -Dpos.ui.properties.filename="%POS_UI_PROPERTIES%" -Dpos.client.system.properties.filename="%POS_CLIENTSYSTEM_PROPERTIES%" -Dpos.preloaded.fiscal.client.system.properties.filename="%POS_PRELOADED_FISCALCLIENTSYSTEM_PROPERTIES%" -Dpos.preloaded.fiscal.ui.properties.filename="%POS_PRELOADED_FISCALUI_PROPERTIES%" -Dpos.config.dirs="%POS_CONFIG_DIRS%" com.gk_software.cst.development.tableau_editor.sample.TableauEditor
 pause

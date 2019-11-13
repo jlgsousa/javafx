@@ -2,48 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="253ecf27-4504-44d2-844e-da2318e753b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sample/FirstDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/FirstDialogController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/f/2f769fc3b0dd177c3365dff558843905f8609d7b" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/firstDialog.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a952ee24ccaf329067caf45d8e61416ce808b0ea" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/d/ad8e8bd4ff8f02a914e3d9ca1bcc32dfc8c503a9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/javafx.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javafx.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javafx/sample/download.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javafx/sample/download.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javafx/sample/firstDialog.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javafx/sample/firstDialog.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javafx/sample/folder.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javafx/sample/folder.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javafx/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javafx/sample/sample.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sample/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sample/FirstDialog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sample/FirstDialogController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sample/download.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/download.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sample/firstDialog.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sample/folder.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/folder.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sample/sample.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/sample.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/install/lib_tableau_editor/rsyntaxtextarea-3.0.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/resources/install/lib_tableau_editor/rsyntaxtextarea-3.0.4.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/install/lib_tableau_editor/tableauEditor.jar" beforeDir="false" afterPath="$PROJECT_DIR$/resources/install/lib_tableau_editor/tableauEditor.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/install/start_TableauEditor.bat" beforeDir="false" afterPath="$PROJECT_DIR$/resources/install/start_TableauEditor.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/install/tableauEditor.properties" beforeDir="false" afterPath="$PROJECT_DIR$/resources/install/tableauEditor.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/javafx.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/install/lib_tableau_editor/rsyntaxtextarea-3.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/install/lib_tableau_editor/tableauEditor.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/install/start_TableauEditor.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/install/tableauEditor.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sample/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sample/FirstDialog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sample/FirstDialogController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sample/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/javafx-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javafx/sample/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javafx/sample/FirstDialog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javafx/sample/FirstDialogController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javafx/sample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javafx/sample/download.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javafx/sample/firstDialog.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javafx/sample/folder.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javafx/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/install/start_TableauEditor.bat" beforeDir="false" afterPath="$PROJECT_DIR$/resources/install/start_TableauEditor.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/FirstDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/FirstDialogController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/download.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/firstDialog.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/folder.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/sample.fxml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,9 +42,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RrfpgoIJXrlTbBolpacmLVOOOG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/install" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/sample/ui" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="PsiViewer.ProjectComponent">
@@ -77,13 +59,19 @@
     <option name="AUTOSCROLL_FROM_SOURCE" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\DEV\Projects\tableauEditor\javafx\resources\install" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\DEV\Projects\tableauEditor\javafx\src\main\java\sample\ui" />
+      <recent name="C:\DEV\Projects\tableauEditor\javafx\src\main\java\loader" />
+      <recent name="C:\DEV\Projects\tableauEditor\javafx\src\main\java\sample" />
+      <recent name="C:\DEV\Projects\tableauEditor\javafx\src\main\java\sample\objects" />
       <recent name="C:\DEV\Projects\tableauEditor\javafx\src\main\resources" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\DEV\Projects\tableauEditor\javafx\src\main\resources" />
       <recent name="C:\DEV\Projects\tableauEditor\javafx\resources\install" />
-      <recent name="C:\DEV\Projects\tableauEditor\javafx\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -104,7 +92,7 @@
       <module name="javafx" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sample.*" />
+          <option name="PATTERN" value="sample.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,7 +105,7 @@
       <module name="javafx" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sample.*" />
+          <option name="PATTERN" value="sample.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,9 +180,14 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/sample/FirstDialogController.java</url>
-          <line>29</line>
+          <url>file://$PROJECT_DIR$/src/main/java/sample/controller/FirstDialogController.java</url>
+          <line>28</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/sample/FirstDialog.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
